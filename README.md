@@ -1,5 +1,5 @@
 
-<h3 align="center">Android Dev</h3>
+<h3 align="center">Java Developer</h3>
 
  
 

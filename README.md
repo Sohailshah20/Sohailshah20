@@ -1,17 +1,3 @@
-## My current tech stack
-
-- Java with Maven
-- Spring/Spring-Boot Framework
-- SQL (PostgreSQL)
-- JPA/Hibernate
-- AWS EC2
-- Docker
-- Microservices using Spring Cloud
-- git
-
-## Articles on Dev.to
-
-Check out my articles on [dev.to](https://dev.to/sohailshah20) 🔖📖📚🤓
 
 <table>
         <tr>
